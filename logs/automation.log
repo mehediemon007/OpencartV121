@@ -1,0 +1,436 @@
+01:19:51:428 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4c27d39d: 6 ms
+01:19:51:439 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3a022576: 8 ms
+01:19:51:444 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@af78c87: 4 ms
+01:19:51:450 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@660591fb: 6 ms
+01:19:51:450 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4a55a6e8: 0 ms
+01:20:14:103 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+01:20:18:502 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:20:19:533 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+01:20:19:536 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:20:30:409 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:25:05:406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+01:25:09:793 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:25:10:582 [main] INFO  testCases.TC003_LoginDDT - true
+01:25:10:837 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+01:25:10:840 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:25:21:817 [main] INFO  testCases.TC003_LoginDDT - false
+01:25:21:832 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:27:05:686 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+01:27:08:314 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:27:09:250 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+01:27:09:252 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:27:19:710 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:29:09:617 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+01:29:12:190 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:29:13:213 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+01:29:13:215 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:29:23:687 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:29:34:238 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+01:29:34:238 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:33:35:700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+01:33:38:230 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:33:39:182 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+01:33:39:184 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:33:49:708 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+01:34:00:245 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+11:44:56:596 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\grouping.xml
+
+11:46:29:763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\grouping.xml
+
+11:46:34:935 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+11:46:35:802 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+11:46:38:734 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+11:46:38:755 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+11:46:40:609 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest
+11:46:41:624 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_LoginTest
+13:02:51:621 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\grouping.xml
+
+13:03:15:788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\grouping.xml
+
+13:03:21:479 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+13:03:21:816 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+13:03:24:485 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+13:03:24:511 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:03:26:240 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest
+13:03:26:999 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_LoginTest
+13:05:46:601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\grouping.xml
+
+13:05:48:670 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+13:05:48:965 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+13:05:51:613 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+13:05:51:637 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:05:53:331 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest
+13:05:54:239 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_LoginTest
+13:08:22:134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\grouping.xml
+
+13:08:24:239 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+13:08:24:574 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+13:08:27:229 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+13:08:27:250 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:08:29:022 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest
+13:08:29:952 [main] INFO  testCases.TC002_LoginTest - **** Finished TC_002_LoginTest
+13:11:07:025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+13:11:09:583 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+13:11:10:552 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+13:11:10:563 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+13:11:21:250 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+13:11:31:792 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+23:52:22:403 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+23:53:00:846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+23:54:24:311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+23:54:32:349 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+23:54:33:938 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+23:54:33:949 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+23:54:44:656 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+23:54:55:267 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+23:55:23:883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+23:55:26:915 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+23:55:27:838 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+23:55:27:849 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+23:55:38:496 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC_003_LoginDDT
+23:55:49:146 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT
+23:57:53:527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+23:57:55:596 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+23:57:56:523 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+23:57:58:543 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+23:57:58:924 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+23:57:59:710 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+23:57:59:740 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+23:58:09:705 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+23:58:09:977 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+23:58:10:676 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:04:29:129 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:05:15:844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:05:21:223 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:05:21:223 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:05:21:411 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:05:22:501 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:05:22:505 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:05:22:513 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:05:23:426 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:07:16:842 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:08:10:781 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:08:10:781 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:08:11:261 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:08:11:265 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:12:23:189 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:12:25:843 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:12:26:299 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:12:26:763 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:12:29:239 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:12:29:239 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:12:29:709 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:12:29:709 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:16:09:522 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:16:11:915 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:16:12:234 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:16:13:102 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:16:13:126 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:16:49:801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:16:54:447 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:16:55:041 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:16:55:871 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:16:55:888 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:17:11:425 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:17:16:022 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:17:16:366 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:17:17:148 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:17:17:171 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:17:28:377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:17:33:247 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:17:33:584 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:17:34:396 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:17:34:419 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:18:18:810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:18:21:048 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:18:21:590 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:18:22:473 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:18:22:520 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:19:33:926 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:19:36:472 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:19:37:027 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:19:37:169 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:19:39:634 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:19:39:636 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:19:40:081 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:19:40:084 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:20:45:402 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:20:47:764 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:20:48:113 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:20:48:917 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:20:48:943 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:24:02:686 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:24:05:257 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:24:05:617 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:24:06:478 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:24:06:510 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:29:25:017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:29:27:931 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:29:28:324 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:29:29:174 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:29:29:202 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:29:41:112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:29:43:895 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:29:44:218 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:29:45:060 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:29:45:089 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:30:03:540 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:30:05:769 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:30:06:316 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:30:07:218 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:30:07:249 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:30:08:906 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:30:09:553 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:30:10:400 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:30:10:416 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:32:44:445 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:32:46:987 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:32:47:326 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:32:48:131 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:32:48:163 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:33:08:100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\master.xml
+
+00:33:10:490 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:33:10:849 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:33:11:617 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:33:11:645 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:36:07:689 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:36:10:067 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:36:10:540 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:36:11:010 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:36:13:367 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:36:13:369 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:36:13:847 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:36:13:849 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:37:32:661 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:37:34:973 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:37:35:521 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:37:35:975 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:37:38:110 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:37:38:110 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:37:38:566 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:37:38:570 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:46:35:947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:46:41:389 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:46:41:572 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:46:42:017 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:46:42:020 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:50:21:525 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:50:24:138 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:50:24:637 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:50:24:993 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:50:27:411 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:50:28:129 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:51:47:653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:51:50:070 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:51:50:388 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:51:51:159 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:51:51:184 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:51:56:311 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:51:56:637 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:51:57:446 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:51:57:466 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:52:02:895 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:52:03:550 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:52:04:336 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:52:04:350 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:53:13:982 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:53:16:305 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:53:16:637 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:53:17:405 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:53:17:432 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:53:22:048 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:53:22:381 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:53:23:157 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:53:23:182 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:53:28:641 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:53:29:226 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:53:30:009 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:53:30:025 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:54:41:645 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:54:43:972 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:54:44:486 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:54:45:318 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+00:54:45:343 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:54:47:873 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:54:47:873 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:54:48:337 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:54:48:341 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:59:25:769 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:59:51:821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:59:54:707 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:59:55:231 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+00:59:57:682 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:59:57:682 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+00:59:58:139 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+00:59:58:139 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+01:00:06:462 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+01:30:11:406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+01:30:15:916 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:30:16:399 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:30:16:579 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+01:30:17:957 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:30:17:990 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+01:30:21:779 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:30:22:476 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:30:23:260 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+01:30:23:276 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+01:44:59:846 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+01:44:59:997 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+01:45:04:273 [TestNG-test-ChromeTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:45:04:996 [TestNG-test-ChromeTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:45:06:349 [TestNG-test-ChromeTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+01:45:06:375 [TestNG-test-ChromeTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+01:45:11:379 [TestNG-test-EdgeTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:45:11:737 [TestNG-test-EdgeTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:45:12:560 [TestNG-test-EdgeTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+01:45:12:589 [TestNG-test-EdgeTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+01:45:18:456 [TestNG-test-FirefoxTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:45:19:055 [TestNG-test-FirefoxTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:45:19:899 [TestNG-test-FirefoxTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+01:45:19:914 [TestNG-test-FirefoxTest-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+01:46:07:356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+01:46:09:765 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:46:10:102 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:46:11:076 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+01:46:11:096 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+01:46:16:130 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:46:16:452 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:46:17:254 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+01:46:17:275 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+01:46:22:900 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:46:23:553 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:46:24:338 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+01:46:24:350 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+01:46:50:859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+01:46:53:242 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:46:53:691 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+01:46:54:369 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+01:46:56:940 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01:46:57:673 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+13:00:04:792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\docker-grid.xml
+
+13:01:23:999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\docker-grid.xml
+
+13:13:43:351 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\docker-grid.xml
+
+13:13:48:474 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+13:13:48:963 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+13:13:50:094 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+13:13:50:153 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:13:52:074 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest
+13:17:15:724 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mehed\eclipse-workspace\OpencartV121\docker-grid.xml
+
+13:17:19:867 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+13:17:20:317 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+13:17:21:368 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+13:17:21:420 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:17:23:415 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest
+13:17:41:414 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+13:17:42:096 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+13:17:43:277 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+13:17:43:305 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:17:49:777 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest
+13:57:15:576 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+13:57:15:946 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+13:57:16:819 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+13:57:16:846 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+14:07:47:572 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+14:07:47:926 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+14:07:48:910 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+14:07:48:938 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+14:13:23:562 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+14:13:24:001 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer Details ****
+14:13:24:871 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message ****
+14:13:24:899 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
